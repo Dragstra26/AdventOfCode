@@ -34,5 +34,6 @@
 # Txt
 *.txt
 
-# .DS_Store
+# Misc
 .DS_Store
+.vscode
